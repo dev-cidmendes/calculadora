@@ -13,6 +13,9 @@ Este é um projeto simples de calculadora em Python que faz operações básicas
    ```bash
    git clone https://github.com/dev-cidmendes/calculadora.git
 
-# run program
-python main.py
+2. Execute o script:
+   ```bash
+   python calculadora.py
+
+   
 
