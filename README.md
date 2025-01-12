@@ -16,6 +16,3 @@ Este é um projeto simples de calculadora em Python que faz operações básicas
 2. Execute o script:
    ```bash
    python calculadora.py
-
-   
-
