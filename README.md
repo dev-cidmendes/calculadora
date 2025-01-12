@@ -13,6 +13,10 @@ Este é um projeto simples de calculadora em Python que faz operações básicas
    ```bash
    git clone https://github.com/dev-cidmendes/calculadora.git
 
-2. Execute o script:
+2. Navegue para a pasta:
    ```bash
-   python calculadora.py
+      cd calculadora
+
+3. Execute o script:
+   ```bash
+   python calculator.py
